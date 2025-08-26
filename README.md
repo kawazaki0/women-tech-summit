@@ -31,7 +31,7 @@ Repozytorium pomocniczne na warsztaty.
     - (opcjonalnie) zaimplementuj klasę `TextSplitterOverlapChunker`
 
 
-Kontakt do prowadzących:
+## Kontakt do prowadzących:
 
 Maciej Jagiełło:
 - https://www.linkedin.com/in/maciej-jagiełło-233b8386/
